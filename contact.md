@@ -3,6 +3,6 @@ layout: page
 title: Contact
 ---
 
-Contact me through email [hello@webjeda.com](mailto:hello@webjeda.com).
+Contact me through email [andrea[dot]pugnana[at]di[dot]unipi[dot]com](mailto:andrea.pugnana@di.unipi.it).
 
-For more themes checkout [Jekyll Themes](https://jekyll-themes.com).
+You can also follow me on [X: @andrepugni](https://x.com/andrepugni).
