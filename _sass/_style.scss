@@ -96,9 +96,6 @@ nav {
     }
 }
 
- img {
-    max-width: 100%;
-}
  
 code, pre {
     overflow: auto;
@@ -157,3 +154,14 @@ footer {
     }
 }
 
+img {
+    width: 300px;
+    height: auto;
+}
+
+.profilePic {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
